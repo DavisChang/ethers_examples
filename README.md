@@ -54,6 +54,7 @@ $ node examples/3_send_signed_transaction.js
 ```
 #### Transaction
 [ecrecover](https://soliditydeveloper.com/ecrecover)
+
 ![Transaction](./images/transaction.png)
 
 ### 4_write_contract.js - Uses LINK contract on Rinkeby testnet
@@ -76,10 +77,4 @@ $ node examples/5_contract_event_stream.js
 - Input your infura project ID 
 ```
 $ node examples/6_inspecting_blocks.js
-```
-
-### 7_inspecting_blocks.js - Get transactions from block
-- Input your infura project ID 
-```
-$ node examples/7_inspecting_blocks.js
 ```
